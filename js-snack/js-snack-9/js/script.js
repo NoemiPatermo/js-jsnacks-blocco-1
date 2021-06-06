@@ -3,7 +3,7 @@
 var numeri = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
 var max = 10;
 var somma = 0;
-for (var i = 1; x <= max; i++){
+for (var i = 1; i <= max; i++){
     somma += i;
 }
 var avg = somma/max;

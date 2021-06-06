@@ -22,4 +22,4 @@ while (x <= 5){
     somma += num;
     x++;
 } 
-console.log('somma while' ') +  somma;*/
+console.log('somma while'  +   somma);*/
